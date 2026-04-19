@@ -1,1 +1,0 @@
-# BIOCAD_test_task
